@@ -1,0 +1,278 @@
+{
+    "calculate": [
+        {
+            "pi": {
+                "Value": 1.0,
+                "NpvBase": {
+                    "Value": 1.0,
+                    "EconomicLimitMonth": 2,
+                    "Calculations": [
+                        {
+                            "MonthNumber": 1,
+                            "LiqRate": 2.0,
+                            "LiqRateTon": 3.0,
+                            "OilRate": 4.0,
+                            "WaterCut": 5.0,
+                            "InjectionRate": 6.0,
+                            "SalesIncome": 7.0,
+                            "MineralProductionTax": 8.0,
+                            "TubingServiceCost": 9.0,
+                            "ElectricalEnergyCost": 10.0,
+                            "DemulsificatorAndInhibitorsExpenses": 11.0,
+                            "OilWellGasGatheringAndTransportationPower": 12.0,
+                            "OilWellGasMaintenanceExpenses": 13.0,
+                            "OilWellGasGathAndTransportEeCost": 14.0,
+                            "MarginalRevenue": 15.0,
+                            "RegularMaintenanceCost": 16.0,
+                            "NetPresentValue": 17.0,
+                            "CumulativeNetPresentValue": 18.0,
+                            "RemainingRecoverableReserves": 19.0,
+                            "ProductionDeclineRate": 20.0,
+                            "MonthProduction": 21.0,
+                            "CumulativeProduction": 22.0,
+                            "LiftingCost": 23.0,
+                            "MechanizedLiftingPower": 24.0
+                        },
+                        {
+                            "MonthNumber": 1,
+                            "LiqRate": 2.0,
+                            "LiqRateTon": 3.0,
+                            "OilRate": 4.0,
+                            "WaterCut": 5.0,
+                            "InjectionRate": 6.0,
+                            "SalesIncome": 7.0,
+                            "MineralProductionTax": 8.0,
+                            "TubingServiceCost": 9.0,
+                            "ElectricalEnergyCost": 10.0,
+                            "DemulsificatorAndInhibitorsExpenses": 11.0,
+                            "OilWellGasGatheringAndTransportationPower": 12.0,
+                            "OilWellGasMaintenanceExpenses": 13.0,
+                            "OilWellGasGathAndTransportEeCost": 14.0,
+                            "MarginalRevenue": 15.0,
+                            "RegularMaintenanceCost": 16.0,
+                            "NetPresentValue": 17.0,
+                            "CumulativeNetPresentValue": 18.0,
+                            "RemainingRecoverableReserves": 19.0,
+                            "ProductionDeclineRate": 20.0,
+                            "MonthProduction": 21.0,
+                            "CumulativeProduction": 22.0,
+                            "LiftingCost": 23.0,
+                            "MechanizedLiftingPower": 24.0
+                        }
+                    ]
+                },
+                "NpvGtm": {
+                    "Value": 1.0,
+                    "EconomicLimitMonth": 2,
+                    "Calculations": [
+                        {
+                            "MonthNumber": 1,
+                            "LiqRate": 2.0,
+                            "LiqRateTon": 3.0,
+                            "OilRate": 4.0,
+                            "WaterCut": 5.0,
+                            "InjectionRate": 6.0,
+                            "SalesIncome": 7.0,
+                            "MineralProductionTax": 8.0,
+                            "TubingServiceCost": 9.0,
+                            "ElectricalEnergyCost": 10.0,
+                            "DemulsificatorAndInhibitorsExpenses": 11.0,
+                            "OilWellGasGatheringAndTransportationPower": 12.0,
+                            "OilWellGasMaintenanceExpenses": 13.0,
+                            "OilWellGasGathAndTransportEeCost": 14.0,
+                            "MarginalRevenue": 15.0,
+                            "RegularMaintenanceCost": 16.0,
+                            "NetPresentValue": 17.0,
+                            "CumulativeNetPresentValue": 18.0,
+                            "RemainingRecoverableReserves": 19.0,
+                            "ProductionDeclineRate": 20.0,
+                            "MonthProduction": 21.0,
+                            "CumulativeProduction": 22.0,
+                            "LiftingCost": 23.0,
+                            "MechanizedLiftingPower": 24.0
+                        },
+                        {
+                            "MonthNumber": 1,
+                            "LiqRate": 2.0,
+                            "LiqRateTon": 3.0,
+                            "OilRate": 4.0,
+                            "WaterCut": 5.0,
+                            "InjectionRate": 6.0,
+                            "SalesIncome": 7.0,
+                            "MineralProductionTax": 8.0,
+                            "TubingServiceCost": 9.0,
+                            "ElectricalEnergyCost": 10.0,
+                            "DemulsificatorAndInhibitorsExpenses": 11.0,
+                            "OilWellGasGatheringAndTransportationPower": 12.0,
+                            "OilWellGasMaintenanceExpenses": 13.0,
+                            "OilWellGasGathAndTransportEeCost": 14.0,
+                            "MarginalRevenue": 15.0,
+                            "RegularMaintenanceCost": 16.0,
+                            "NetPresentValue": 17.0,
+                            "CumulativeNetPresentValue": 18.0,
+                            "RemainingRecoverableReserves": 19.0,
+                            "ProductionDeclineRate": 20.0,
+                            "MonthProduction": 21.0,
+                            "CumulativeProduction": 22.0,
+                            "LiftingCost": 23.0,
+                            "MechanizedLiftingPower": 24.0
+                        }
+                    ]
+                },
+                "EventCost": 2.0,
+                "EventCostLimit": 3.0
+            },
+            "validationResults": [
+                {
+                    "parentTitle": "sample string 1",
+                    "title": "sample string 2",
+                    "value": "sample string 3",
+                    "isValid": true
+                },
+                {
+                    "parentTitle": "sample string 1",
+                    "title": "sample string 2",
+                    "value": "sample string 3",
+                    "isValid": true
+                }
+            ]
+        },
+        {
+            "pi": {
+                "Value": 1.0,
+                "NpvBase": {
+                    "Value": 1.0,
+                    "EconomicLimitMonth": 2,
+                    "Calculations": [
+                        {
+                            "MonthNumber": 1,
+                            "LiqRate": 2.0,
+                            "LiqRateTon": 3.0,
+                            "OilRate": 4.0,
+                            "WaterCut": 5.0,
+                            "InjectionRate": 6.0,
+                            "SalesIncome": 7.0,
+                            "MineralProductionTax": 8.0,
+                            "TubingServiceCost": 9.0,
+                            "ElectricalEnergyCost": 10.0,
+                            "DemulsificatorAndInhibitorsExpenses": 11.0,
+                            "OilWellGasGatheringAndTransportationPower": 12.0,
+                            "OilWellGasMaintenanceExpenses": 13.0,
+                            "OilWellGasGathAndTransportEeCost": 14.0,
+                            "MarginalRevenue": 15.0,
+                            "RegularMaintenanceCost": 16.0,
+                            "NetPresentValue": 17.0,
+                            "CumulativeNetPresentValue": 18.0,
+                            "RemainingRecoverableReserves": 19.0,
+                            "ProductionDeclineRate": 20.0,
+                            "MonthProduction": 21.0,
+                            "CumulativeProduction": 22.0,
+                            "LiftingCost": 23.0,
+                            "MechanizedLiftingPower": 24.0
+                        },
+                        {
+                            "MonthNumber": 1,
+                            "LiqRate": 2.0,
+                            "LiqRateTon": 3.0,
+                            "OilRate": 4.0,
+                            "WaterCut": 5.0,
+                            "InjectionRate": 6.0,
+                            "SalesIncome": 7.0,
+                            "MineralProductionTax": 8.0,
+                            "TubingServiceCost": 9.0,
+                            "ElectricalEnergyCost": 10.0,
+                            "DemulsificatorAndInhibitorsExpenses": 11.0,
+                            "OilWellGasGatheringAndTransportationPower": 12.0,
+                            "OilWellGasMaintenanceExpenses": 13.0,
+                            "OilWellGasGathAndTransportEeCost": 14.0,
+                            "MarginalRevenue": 15.0,
+                            "RegularMaintenanceCost": 16.0,
+                            "NetPresentValue": 17.0,
+                            "CumulativeNetPresentValue": 18.0,
+                            "RemainingRecoverableReserves": 19.0,
+                            "ProductionDeclineRate": 20.0,
+                            "MonthProduction": 21.0,
+                            "CumulativeProduction": 22.0,
+                            "LiftingCost": 23.0,
+                            "MechanizedLiftingPower": 24.0
+                        }
+                    ]
+                },
+                "NpvGtm": {
+                    "Value": 1.0,
+                    "EconomicLimitMonth": 2,
+                    "Calculations": [
+                        {
+                            "MonthNumber": 1,
+                            "LiqRate": 2.0,
+                            "LiqRateTon": 3.0,
+                            "OilRate": 4.0,
+                            "WaterCut": 5.0,
+                            "InjectionRate": 6.0,
+                            "SalesIncome": 7.0,
+                            "MineralProductionTax": 8.0,
+                            "TubingServiceCost": 9.0,
+                            "ElectricalEnergyCost": 10.0,
+                            "DemulsificatorAndInhibitorsExpenses": 11.0,
+                            "OilWellGasGatheringAndTransportationPower": 12.0,
+                            "OilWellGasMaintenanceExpenses": 13.0,
+                            "OilWellGasGathAndTransportEeCost": 14.0,
+                            "MarginalRevenue": 15.0,
+                            "RegularMaintenanceCost": 16.0,
+                            "NetPresentValue": 17.0,
+                            "CumulativeNetPresentValue": 18.0,
+                            "RemainingRecoverableReserves": 19.0,
+                            "ProductionDeclineRate": 20.0,
+                            "MonthProduction": 21.0,
+                            "CumulativeProduction": 22.0,
+                            "LiftingCost": 23.0,
+                            "MechanizedLiftingPower": 24.0
+                        },
+                        {
+                            "MonthNumber": 1,
+                            "LiqRate": 2.0,
+                            "LiqRateTon": 3.0,
+                            "OilRate": 4.0,
+                            "WaterCut": 5.0,
+                            "InjectionRate": 6.0,
+                            "SalesIncome": 7.0,
+                            "MineralProductionTax": 8.0,
+                            "TubingServiceCost": 9.0,
+                            "ElectricalEnergyCost": 10.0,
+                            "DemulsificatorAndInhibitorsExpenses": 11.0,
+                            "OilWellGasGatheringAndTransportationPower": 12.0,
+                            "OilWellGasMaintenanceExpenses": 13.0,
+                            "OilWellGasGathAndTransportEeCost": 14.0,
+                            "MarginalRevenue": 15.0,
+                            "RegularMaintenanceCost": 16.0,
+                            "NetPresentValue": 17.0,
+                            "CumulativeNetPresentValue": 18.0,
+                            "RemainingRecoverableReserves": 19.0,
+                            "ProductionDeclineRate": 20.0,
+                            "MonthProduction": 21.0,
+                            "CumulativeProduction": 22.0,
+                            "LiftingCost": 23.0,
+                            "MechanizedLiftingPower": 24.0
+                        }
+                    ]
+                },
+                "EventCost": 2.0,
+                "EventCostLimit": 3.0
+            },
+            "validationResults": [
+                {
+                    "parentTitle": "sample string 1",
+                    "title": "sample string 2",
+                    "value": "sample string 3",
+                    "isValid": true
+                },
+                {
+                    "parentTitle": "sample string 1",
+                    "title": "sample string 2",
+                    "value": "sample string 3",
+                    "isValid": true
+                }
+            ]
+        }
+    ]
+}
